@@ -16,5 +16,6 @@ Experienced engineer with a strong foundation in PCB manufacturing and a passion
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aathreyatnnithish)  
 [![Email](https://img.shields.io/badge/Email-Send%20Me%20a%20Message-red?style=for-the-badge&logo=gmail)](mailto:nithishaathreyatn@gmail.com)  
+[![Reddit](https://img.shields.io/badge/Reddit-Join%20Me-orange?style=for-the-badge&logo=reddit)](https://www.reddit.com/u/aathreya_nithish/s/I8Vmfeh9Oe)  
 
 

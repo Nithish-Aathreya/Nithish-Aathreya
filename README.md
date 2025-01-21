@@ -8,4 +8,4 @@ I'm a passionate VLSI Engineer with expertise in RTL Design, SystemVerilog, and 
  
  RTL design and gate-level modeling for advanced circuit implementations
  
- Hardware prototyping and embedded systems using tools like Arduino
+ Hardware prototyping 

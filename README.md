@@ -5,10 +5,9 @@ Experienced engineer with a strong foundation in PCB manufacturing and a passion
 - HDLs: Proficient in utilizing Verilog / SystemVerilog [HDLs] for RTL and FSM modeling, simulating, and verification.
 - Computer Organization & Architecture: Strong understanding of COA.
 - CMOS: Good understanding of MOSFET’s and CMOS characteristics.
-- Programming: Basic proficiency in C, and C++ and a solid understanding of OOP concepts.
 - Microcontroller : 8051.
-- Communication Protocols: SPI, I2C, UART.
-- Simulation Tools: Proteus, Tinkercad, and AMD Vivado.
+- Communication Protocols: SPI,APB.
+- Simulation Tools: ModelSim and AMD Vivado.
 - PCB Standards: IPC 600-A, 4101, 6012, 4761, SM-840.
 
 

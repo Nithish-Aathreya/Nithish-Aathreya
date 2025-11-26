@@ -1,14 +1,14 @@
 ## 🌟 About Me  
-Experienced engineer with a strong foundation in PCB manufacturing and a passion for VLSI design. Skilled in Verilog/SystemVerilog, FSM modeling, and digital electronics. Seeking an opportunity to leverage technical expertise and drive innovation in the VLSI domain.
+Results-driven engineer with hands-on experience in PCB manufacturing, design checks, and functional verification. Skilled in Verilog, SystemVerilog, UVM, constrained random verification, coverage, and digital design fundamentals. Completed design and verification Training.
 
 💡 **Core Skills**  
-- HDLs: Proficient in utilizing Verilog / SystemVerilog [HDLs] for RTL and FSM modeling, simulating, and verification.
+- HDLs: Verilog.
+- HVL and Methodology: System Verilog, UVM
 - Computer Organization & Architecture: Strong understanding of COA.
 - CMOS: Good understanding of MOSFET’s and CMOS characteristics.
 - Microcontroller : 8051.
-- Communication Protocols: SPI,APB.
-- Simulation Tools: ModelSim and AMD Vivado.
-- PCB Standards: IPC 600-A, 4101, 6012, 4761, SM-840.
+- Communication Protocol:APB.
+  Tools: ModelSim, QuestaSim, GVIM.
 
 
 ## 🌐 Let's Connect  

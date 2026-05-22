@@ -1,14 +1,16 @@
 ## 🌟 About Me  
-Results-driven engineer with hands-on experience in PCB manufacturing, design checks, and functional verification. Skilled in Verilog, SystemVerilog, UVM, constrained random verification, coverage, and digital design fundamentals. Completed design and verification Training.
+Verification Engineer with 2 years of hardware industry experience and hands-on expertise in SystemVerilog and UVM testbench development, constrained random verification, and functional coverage closure. Proficient in SystemVerilog, UVM, QuestaSim,Synopsys VCS, and Verdi. 
 
 💡 **Core Skills**  
-- HDLs: Verilog.
-- HVL and Methodology: System Verilog, UVM
-- Computer Organization & Architecture: Strong understanding of COA.
-- CMOS: Good understanding of MOSFET’s and CMOS characteristics.
-- Microcontroller : 8051.
-- Communication Protocol:APB.
-  Tools: ModelSim, QuestaSim, GVIM.
+- HDL:Verilog
+- HVL & Methodology:SystemVerilog, UVM (Universal Verification Methodology)
+- Verification:Constraints, Functional Coverage, Code Coverage, Assertions (SVA basics)
+- Simulation Tools:QuestaSim, Synopsys VCS, Verdi 
+- Protocols	APB (AMBA Peripheral Bus)
+- Scripting & Tools	GVIM, Linux, Git (version control)
+- Hardware	PCB DFM, GD&T, IPC Standards, HDI/HF/Rigid Flex PCBs
+
+
 
 
 ## 🌐 Let's Connect  

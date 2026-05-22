@@ -6,9 +6,9 @@ Verification Engineer with 2 years of hardware industry experience and hands-on 
 - HVL & Methodology:SystemVerilog, UVM (Universal Verification Methodology)
 - Verification:Constraints, Functional Coverage, Code Coverage, Assertions (SVA basics)
 - Simulation Tools:QuestaSim, Synopsys VCS, Verdi 
-- Protocols	APB (AMBA Peripheral Bus)
-- Scripting & Tools	GVIM, Linux, Git (version control)
-- Hardware	PCB DFM, GD&T, IPC Standards, HDI/HF/Rigid Flex PCBs
+- Protocols:APB (AMBA Peripheral Bus)
+- Scripting & Tools:	GVIM, Linux, Git (version control)
+- Hardware:	PCB DFM, GD&T, IPC Standards, HDI/HF/Rigid Flex PCBs
 
 
 

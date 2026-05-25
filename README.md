@@ -7,7 +7,7 @@ Verification Engineer with 2 years of hardware industry experience and hands-on 
 - Verification:Constraints, Functional Coverage, Code Coverage, Assertions (SVA basics)
 - Simulation Tools:QuestaSim, Synopsys VCS, Verdi 
 - Protocols:APB (AMBA Peripheral Bus)
-- Scripting & Tools:	GVIM, Linux, Git (version control)
+- Scripting & Tools:	GVIM, Linux
 - Hardware:	PCB DFM, GD&T, IPC Standards, HDI/HF/Rigid Flex PCBs
 
 
